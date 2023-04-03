@@ -1,0 +1,41 @@
+{
+  "alias": "aps",
+  "prefix": "microwave",
+  "suffix": "",
+  "suggestions": [
+    {
+      "suggType": "WidgetSuggestion",
+      "type": "WIDGET",
+      "value": "microwave oven",
+      "refTag": "nb_sb_ss_w_sbl-tr-t1_microwave-oven_k0_1_9",
+      "widgetId": "microwave-oven",
+      "strategyId": "sbl-tr-t1",
+      "template": "discover-top-refinement-desktop-top",
+      "metadata": {
+        "headerPrefix": "",
+        "header": "microwave oven",
+        "headerSuffix": " by capacity"
+      },
+      "widgetItems": [
+        {
+          "id": "0",
+          "type": "KEYWORD",
+          "metadata": {
+            "link_url": "/s?k=microwave+oven&amp;rh=n%3A1380072031%2Cp_n_feature_seven_browse-bin%3A1480534031&amp;rnid=1480533031&amp;nav_sdd=aps&amp;crid=1YAU2R3SWFZKX&amp;sprefix=microwave&amp;ref=nb_sb_ss_w_sbl-tr-t1_microwave-oven_k0_1_9_0",
+            "text": "Up to 20 l"
+          }
+        }
+      ]
+    },
+    {
+      "suggType": "KeywordSuggestion",
+      "type": "KEYWORD",
+      "value": "microwave oven",
+      "refTag": "nb_sb_ss_ts-doa-p_2_9",
+      "candidateSources": "local",
+      "strategyId": "ts-doa-p",
+      "strategyApiType": "RANK",
+      "prior": 0
+    }
+  ]
+}
